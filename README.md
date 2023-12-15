@@ -1,7 +1,6 @@
 Hi I am Mark, and I am a motivated and industrious human being, with a proven track record as an educator and musician. Having graduated from Dev Academy Aotearoa I am keen to explore how I can integrate my previous skillset and experience with my newly found love of tech and coding. 
 
-Here is my CV : [Mark Baynes' Developer CV](Mark%20Baynes%20Dev%20CV.pdf)
-
+Here is my CV : [My CV](Mark%20Baynes%20Dev%20CV.pdf)
 
 My teaching experience has endowed me with the ability to distil and clarify complex concepts, a skill that I find invaluable when crafting code and working in teams. My proficiency in music technology has paved the way for a seamless transition to web development tools. My project management skills translate directly to working to deadlines and contributing to a positive team culture. The creative thinking I've developed through music also plays a critical role in my approach to problem-solving and devising innovative solutions. 
 
